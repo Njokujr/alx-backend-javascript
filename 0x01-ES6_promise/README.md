@@ -1,6 +1,6 @@
 # 0x01. ES6 Promises
 <hr>
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/75862d67ca51a042003c.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230627%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230627T183631Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=921077b8364b34d7d76deba81e110339db08ec922d3530eef819ff6ac1a87921)
+![](https://drive.google.com/file/d/1zW_m-pY94BJOPKIys8fqSZsozxiwEoAB/view?usp=drive_link)
 ## LEARNING OBJECTIVES
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
