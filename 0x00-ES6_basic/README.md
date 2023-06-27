@@ -2,7 +2,10 @@
 ## PROJECT DESCRIPTION
 
 <hr>
-![](.Img\08806026ef621f900121.png)
+
+![meme](.Img\08806026ef621f900121.png)
+
+<hr>
 ## LEARNING OBJECTIVES
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
