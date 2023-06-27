@@ -1,6 +1,8 @@
 # 0x00. ES6 Basics
+## PROJECT DESCRIPTION
+
 <hr>
-![](https://drive.google.com/file/d/1x5TbB1RV44C70kEqszArcZB1VC_s4MBg/view?usp=drive_link)
+![](.Img\08806026ef621f900121.png)
 ## LEARNING OBJECTIVES
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 

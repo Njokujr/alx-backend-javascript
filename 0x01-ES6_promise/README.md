@@ -1,6 +1,7 @@
 # 0x01. ES6 Promises
+## PROJECT DESCRIPTION
 <hr>
-![](https://drive.google.com/file/d/1zW_m-pY94BJOPKIys8fqSZsozxiwEoAB/view)
+![](.Img\75862d67ca51a042003c.jpeg)
 
 <hr>
 ## LEARNING OBJECTIVES
