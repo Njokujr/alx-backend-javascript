@@ -1,7 +1,6 @@
 # 0x00. ES6 Basics
 <hr>
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/08806026ef621f900121.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230627%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230627T152436Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=5a63dd99e5b091fb04d5190aebb19fa50efed2c676b4fc711acfe730e5058dca)
-
+![](https://drive.google.com/file/d/1x5TbB1RV44C70kEqszArcZB1VC_s4MBg/view?usp=drive_link)
 ## LEARNING OBJECTIVES
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
