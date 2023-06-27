@@ -1,6 +1,8 @@
 # 0x01. ES6 Promises
 <hr>
-![](https://drive.google.com/file/d/1zW_m-pY94BJOPKIys8fqSZsozxiwEoAB/view?usp=drive_link)
+![](https://drive.google.com/file/d/1zW_m-pY94BJOPKIys8fqSZsozxiwEoAB/view)
+
+<hr>
 ## LEARNING OBJECTIVES
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
